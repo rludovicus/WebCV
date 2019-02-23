@@ -1,0 +1,115 @@
+#persegi1{
+    color: #E7AF0B;
+    background-color: #E7AF0B;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #3C3B3C;
+    width: 90%;
+    margin: 20px auto 0 auto;
+}
+
+#persegi2{
+    color: #D4565A;
+    background-color: #D4565A;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #3C3B3C;
+    width: 90%;
+    margin: 20px auto 0 auto;
+}
+
+#persegi3{
+    color: #71BC53;
+    background-color: #71BC53;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #3C3B3C;
+    width: 90%;
+    margin: 20px auto 0 auto;
+}
+
+#persegi4{
+    color: #3D87C7;
+    background-color: #3D87C7;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #3C3B3C;
+    width: 90%;
+    margin: 60px auto 20px auto;
+}
+
+#persegi5{
+    color: #F08519;
+    background-color: #F08519;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #3C3B3C;
+    width: 90%;
+    margin: 60px auto 20px auto;
+}
+
+.skills {
+    text-align: right;
+    padding: 5px;
+    color: black;
+    border-radius: 20px;
+}
+
+.container {
+    width: 590px;
+    background-color: black;
+    border-radius: 20px;
+    margin: auto auto 20px 30px;
+}
+
+.pascal{
+    width: 30%;
+    background-color: white;
+}
+
+.c{
+    width: 50%;
+    background-color: white;
+    
+}
+.web{
+    width: 60%;
+    background-color: white;
+}
+.java{
+    width: 70%;
+    background-color: white;
+}
+
+.cn{
+    width: 80%;
+    background-color: white;
+}
+.indo{
+    width: 90%;
+    background-color: white;
+}
+
+.eng{
+    width: 80%;
+    background-color: white;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
